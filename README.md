@@ -12,3 +12,5 @@ More Coming soon!
 [JavaScript](https://www.javascript.com)
 
 [Discord.js](https://discord.js.org)
+
+[nodemon](https://nodemon.io)
