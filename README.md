@@ -4,8 +4,7 @@ This repository is for me or anyone who wants to be able to learn or use my work
 ---
 
 ### Features
--      Moderation Commands
--      Simple but helpful commands like /help
+-      Nothing As of now
 More Coming soon!
 
 ### Resources Used
