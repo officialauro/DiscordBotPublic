@@ -9,5 +9,5 @@ This repository is for me or anyone who wants to be able to learn or use my work
 More Coming soon!
 
 ### Resources Used
-[JavaScript] - https://www.javascript.com
-[Discord.js] - https://discord.js.org
+[JavaScript](https://www.javascript.com)
+[Discord.js](https://discord.js.org)
