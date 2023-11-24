@@ -10,4 +10,5 @@ More Coming soon!
 
 ### Resources Used
 [JavaScript](https://www.javascript.com)
+
 [Discord.js](https://discord.js.org)
